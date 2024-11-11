@@ -1,0 +1,14 @@
+＃ディレクトリ構成
+/c:/dev/React-WebFOCUS/
+├── src/
+│   ├── components/
+│   ├── containers/
+│   ├── services/
+│   ├── utils/
+│   └── index.js
+├── public/
+│   ├── index.html
+│   └── favicon.ico
+├── package.json
+└── README.md
+
